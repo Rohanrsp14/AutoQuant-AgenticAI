@@ -1,6 +1,6 @@
 import os
 import requests
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.agents import initialize_agent, Tool
 from langchain.agents.agent_types import AgentType
 from langchain.tools import DuckDuckGoSearchRun
