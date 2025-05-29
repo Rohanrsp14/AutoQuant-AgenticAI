@@ -1,3 +1,5 @@
+<img src="Autoquant.png" alt="AutoQuant Banner" style="width:100%; max-height:300px;" />
+
 # AutoQuant: Your Financial Research Agent 🧠📈
 
 AutoQuant is your intelligent assistant for **stock research automation**. It helps you quickly analyze public companies, generate backtested trade setups, and even export findings as PDF deliverables — all powered by LLMs + LangChain.
