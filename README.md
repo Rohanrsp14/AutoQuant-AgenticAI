@@ -1,4 +1,4 @@
-<img src="Autoquant.png" alt="AutoQuant Banner" style="width:100%; max-height:300px;" />
+<img src="AutoQuant.png" alt="AutoQuant Banner" style="width:100%; max-height:300px;" />
 
 # AutoQuant: Your Financial Research Agent 🧠📈
 
